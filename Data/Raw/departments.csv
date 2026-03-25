@@ -1,0 +1,21 @@
+dept_id,dept_name,location,head_count,annual_budget_lakhs
+DEPT01,Network Operations,Chennai,30,378
+DEPT02,Software Development,Hyderabad,42,216
+DEPT03,Quality Assurance,Bangalore,67,323
+DEPT04,DevOps,Hyderabad,31,437
+DEPT05,Cybersecurity,Hyderabad,58,138
+DEPT06,Database Administration,Pune,68,365
+DEPT07,Cloud Infrastructure,Bangalore,51,63
+DEPT08,Business Analysis,Bangalore,69,291
+DEPT09,Technical Support,Bangalore,24,314
+DEPT10,IT Procurement,Hyderabad,71,395
+DEPT11,Systems Integration,Chennai,71,102
+DEPT12,Data Analytics,Bangalore,56,435
+DEPT13,Mobile Development,Delhi,71,389
+DEPT14,ERP Support,Hyderabad,60,141
+DEPT15,IT Governance,Pune,64,416
+DEPT16,Helpdesk L1,Chennai,73,493
+DEPT17,Helpdesk L2,Delhi,12,477
+DEPT18,Helpdesk L3,Delhi,60,313
+DEPT19,Project Management,Pune,16,480
+DEPT20,IT Training,Chennai,30,84
