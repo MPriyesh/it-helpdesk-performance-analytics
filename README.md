@@ -32,13 +32,13 @@ interactive Power BI dashboard.
 6. Can we predict SLA breach before resolution? (ML model)
 
 ## Project Structure
-├── data/raw/           # Original datasets
-├── data/processed/     # Cleaned datasets
-├── 01_excel/           # Excel analysis
-├── 02_sql/             # SQL scripts
-├── 03_python/          # Jupyter notebooks
-├── 04_powerbi/         # Dashboard + screenshots
-└── docs/               # Key insights
+├── data/raw/          
+├── data/processed/   
+├── 01_excel/          
+├── 02_sql/             
+├── 03_python/        
+├── 04_powerbi/       
+└── docs/               
 
 ## Key Insights
 *(To be updated after analysis)*
