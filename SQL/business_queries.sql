@@ -1,4 +1,4 @@
-1.cOverall SLA breach rate
+1. Overall SLA breach rate
 SELECT 
     COUNT(*) AS total_tickets,
     SUM(CASE WHEN sla_breached = 'Yes' THEN 1 ELSE 0 END) AS breached,
